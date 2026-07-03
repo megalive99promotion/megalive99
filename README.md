@@ -18,17 +18,11 @@ Website ini menyediakan informasi terbaru mengenai:
 
 ## Halaman Penting
 
-Login
+## Halaman
 
-(https://gametop99.com/)
-
-Promo
-
-(https://megalive99bagus.com/promotions/)
-
-RTP Live
-
-(https://rtpforplayer.xyz/)
+- [Login](login.md)
+- [Promo](promo.md)
+- [RTP Live](rtp-live.md)
 
 ## Tentang
 

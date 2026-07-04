@@ -18,4 +18,4 @@ Repository ini berisi berbagai informasi seperti:
 
 https:/gametop99.com/
 
-Seluruh informasi akan diperbarui secara berkala sesuai perkembangan website resmi.
+Seluruh informasi akan diperbarui secara berkala sesuai perkembangan website resmi

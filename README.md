@@ -20,9 +20,12 @@ https://gametop99.com/
 
 ## Halaman
 
+- [About](about.md)
 - [Login](login.md)
 - [Promo](promo.md)
 - [RTP Live](rtp-live.md)
+- [FAQ](faq.md)
+- [Contact](contact.md)
 
 ## Tentang
 

@@ -32,9 +32,9 @@ Terima kasih telah mengunjungi repository ini.
 
 ## Dokumentasi
 
-- About
-- Login
-- Promo
-- RTP Live
-- FAQ
-- Contact
+- [About](about.md)
+- [Login](login.md)
+- [Promo](promo.md)
+- [RTP Live](rtp-live.md)
+- [FAQ](faq.md)
+- [Contact](contact.md)

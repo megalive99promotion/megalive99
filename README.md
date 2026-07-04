@@ -14,7 +14,7 @@ Website ini menyediakan informasi terbaru mengenai:
 
 ## Website Resmi
 
-(https://gametop99.com/)
+https://gametop99.com/
 
 ## Halaman Penting
 
@@ -29,3 +29,12 @@ Website ini menyediakan informasi terbaru mengenai:
 MEGALIVE99 selalu menghadirkan informasi terbaru serta update permainan setiap hari.
 
 Terima kasih telah mengunjungi repository ini.
+
+## Dokumentasi
+
+- About
+- Login
+- Promo
+- RTP Live
+- FAQ
+- Contact

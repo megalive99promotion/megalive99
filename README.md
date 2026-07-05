@@ -41,3 +41,8 @@ Terima kasih telah mengunjungi repository ini.
 - [RTP Live](rtp-live.md)
 - [FAQ](faq.md)
 - [Contact](contact.md)
+
+## Panduan
+
+- [Games Guide](docs/games.md)
+- [Sports Guide](docs/sports.md)
